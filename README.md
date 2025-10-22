@@ -4,8 +4,8 @@
 ## 🗂️ Contents
 
 htb-writeups/  
-├── 📖 **[README.md](https://github.com/kak7tak/htb_notes)** # This page 
-├── 🎯 [Tracks /](https://github.com/kak7tak/htb_notes) # 
+├── 📖 README.md # This page
+├── 🎯 Tracks / # 
 │ ├── 🐧 Detecting Active Directory Attacks / ( **0** / **6** challenges) 
 ├── 🛠️ TOOLS/ # Scripts etc
 └── 📚 RESOURCES/ # Notes, sites
